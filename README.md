@@ -96,7 +96,7 @@ project/
 
 ## :rocket: دەستپێکردن
 
-1. ریپۆزیتۆرییەکە ### 📸 Screenshot:
+1. ریپۆزیتۆرییەکە (پرۆژەی) کلۆن بکەن:
 
 bash
 git clone https://github.com/SirwanCode/HawlerAdmin.git
