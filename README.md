@@ -1,4 +1,4 @@
-# :rocket: Admin Panel Dashboard
+# :rocket: HawlerAdmin
 
 ## :us: English
 
