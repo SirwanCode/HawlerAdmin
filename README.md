@@ -96,7 +96,7 @@ project/
 
 ## :rocket: دەستپێکردن
 
-1. ریپۆزیتۆرییەکە (پرۆژەی) کلۆن بکەن📁:
+1. 📁ریپۆزیتۆرییەکە (پرۆژەی) کلۆن بکەن:
 
  
 git clone https://github.com/SirwanCode/HawlerAdmin.git
