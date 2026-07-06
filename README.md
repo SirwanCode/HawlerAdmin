@@ -81,6 +81,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 ## :open_file_folder: پێکهاتەی پڕۆژە
 
 
+```
 project/
 │── index.html
 │── css/
@@ -88,6 +89,8 @@ project/
 │── img/
 │── webfont/
 └── README.md
+```
+
 
 
 
