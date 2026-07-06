@@ -22,32 +22,23 @@ This project is a modern and responsive Admin Panel Dashboard built using HTML, 
 
 ### :open_file_folder: Project Structure
 
-
-y-website/
-│
-├── index.html                  # Main page
-├── about.html                  # About page
-├── contact.html                # Contact page
-├── 404.html                    # Error page
-│
+```
+my-website/
+├── index.html
+├── about.html
 ├── css/
-│   ├── style.css               # Main stylesheet
-│   ├── reset.css               # CSS reset / normalize
-│   ├── variables.css           # Custom properties (colors, fonts)
-│   ├── layout.css              # Grid / Flexbox layout
-│   ├── components.css          # Reusable components
-│   ├── responsive.css          # Media queries / responsive design
-│   └── themes/
-│       ├── light.css           # Light theme
-│       └── dark.css            # Dark theme
-│
-├── js/
-│   ├── main.js                 # Main JavaScript
-│   ├── navigation.js           # Navigation logic
-│   ├── animations.js           # Animations
-│   └── utils.js                # Utility functions
-│
-
+│   ├── style.css
+│   ├── reset.css
+│   └── responsive.css
+├── images/
+│   ├── logo.png
+│   ├── banner.jpg
+│   └── gallery/
+│       ├── img1.jpg
+│       └── img2.jpg
+└── js/
+    └── main.js
+```
 
 
 ### :rocket: Getting Started
