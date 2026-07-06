@@ -1,4 +1,4 @@
-# :rocket: HawlerAdmin
+# :rocket: HawlerAdmin هەولێر ئەدمین
 
 ## :us: English
 
