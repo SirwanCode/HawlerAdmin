@@ -47,7 +47,7 @@ git clone https://github.com/SirwanCode/HawlerAdmin.git
 3. Open index.html in your browser.
 
 ### 📸 Screenshot
-![Alt text for the image](peview/preview-01.png)
+![Alt text for the image](./peview/preview-01.png)
 
 ### 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
