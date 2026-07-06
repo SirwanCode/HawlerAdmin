@@ -23,13 +23,32 @@ This project is a modern and responsive Admin Panel Dashboard built using HTML, 
 ### :open_file_folder: Project Structure
 
 
-project/
-│── index.html
-│── css/
-│── js/
-│── img/
-│── webfont/
-└── README.md
+📁 Project Structure
+your-repo/
+├── .github/               # GitHub workflows
+│   └── workflows/
+│       └── ci.yml
+├── public/                # Static assets
+│   └── favicon.ico
+├── src/
+│   ├── components/        # Reusable UI components
+│   │   ├── Button/
+│   │   ├── Header/
+│   │   └── Footer/
+│   ├── pages/             # Page components
+│   ├── hooks/             # Custom React hooks
+│   ├── utils/             # Utility functions
+│   ├── services/          # API services
+│   ├── styles/            # Global styles
+│   └── App.js
+├── images/                # Screenshots & images for README
+├── tests/                 # Test files
+├── .env.example           # Environment variables template
+├── .gitignore
+├── package.json
+├── README.md
+├── LICENSE
+└── docker-compose.yml
 
 
 
