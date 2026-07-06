@@ -1,6 +1,6 @@
 # :rocket: Admin Panel Dashboard
 
-## :gb: English
+## :us: English
 
 ### :book: Overview
 This project is a modern and responsive Admin Panel Dashboard built using HTML, CSS, and JavaScript. It provides a clean user interface and essential dashboard components that can be used as a starting point for web applications, admin systems, and management platforms.
@@ -96,7 +96,7 @@ project/
 
 ## :rocket: دەستپێکردن
 
-1. ریپۆزیتۆرییەکە (پرۆژەی) کلۆن بکەن:
+1. ریپۆزیتۆرییەکە (پرۆژەی) کلۆن بکەن📁:
 
  
 git clone https://github.com/SirwanCode/HawlerAdmin.git
