@@ -24,31 +24,30 @@ This project is a modern and responsive Admin Panel Dashboard built using HTML, 
 
 
 📁 Project Structure
-your-repo/
-├── .github/               # GitHub workflows
-│   └── workflows/
-│       └── ci.yml
-├── public/                # Static assets
-│   └── favicon.ico
-├── src/
-│   ├── components/        # Reusable UI components
-│   │   ├── Button/
-│   │   ├── Header/
-│   │   └── Footer/
-│   ├── pages/             # Page components
-│   ├── hooks/             # Custom React hooks
-│   ├── utils/             # Utility functions
-│   ├── services/          # API services
-│   ├── styles/            # Global styles
-│   └── App.js
-├── images/                # Screenshots & images for README
-├── tests/                 # Test files
-├── .env.example           # Environment variables template
-├── .gitignore
-├── package.json
-├── README.md
-├── LICENSE
-└── docker-compose.yml
+my-website/
+│
+├── index.html                  # Main page
+├── about.html                  # About page
+├── contact.html                # Contact page
+├── 404.html                    # Error page
+│
+├── css/
+│   ├── style.css               # Main stylesheet
+│   ├── reset.css               # CSS reset / normalize
+│   ├── variables.css           # Custom properties (colors, fonts)
+│   ├── layout.css              # Grid / Flexbox layout
+│   ├── components.css          # Reusable components
+│   ├── responsive.css          # Media queries / responsive design
+│   └── themes/
+│       ├── light.css           # Light theme
+│       └── dark.css            # Dark theme
+│
+├── js/
+│   ├── main.js                 # Main JavaScript
+│   ├── navigation.js           # Navigation logic
+│   ├── animations.js           # Animations
+│   └── utils.js                # Utility functions
+│
 
 
 
