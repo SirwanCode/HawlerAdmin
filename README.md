@@ -112,7 +112,7 @@ git clone https://github.com/SirwanCode/HawlerAdmin.git
 ![Alt text for the image](./preview/preview-02.png)
 ![Alt text for the image](./preview/preview-03.png)
 ![Alt text for the image](./preview/preview-04.png)
-![Alt text for the image](./preview/preview-05.png)
+
 ## 🤝 بەشداری
 هەر بەشدارییەک پێشوازی لێ دەکرێت. دەتوانیت Fork بکەیت و Pull Request بنێریت.
 
