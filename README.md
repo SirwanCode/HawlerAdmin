@@ -23,8 +23,7 @@ This project is a modern and responsive Admin Panel Dashboard built using HTML, 
 ### :open_file_folder: Project Structure
 
 
-📁 Project Structure
-my-website/
+y-website/
 │
 ├── index.html                  # Main page
 ├── about.html                  # About page
