@@ -23,7 +23,7 @@ This project is a modern and responsive Admin Panel Dashboard built using HTML, 
 ### :open_file_folder: Project Structure
 
 ```
-project/
+HawlerAdmin/
 │── index.html
 │── css/
 │── js/
@@ -82,7 +82,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 
 ```
-project/
+HawlerAdmin/
 │── index.html
 │── css/
 │── js/
