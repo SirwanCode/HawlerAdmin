@@ -37,7 +37,7 @@ project/
 
 1. Clone the repository:
 
-bash
+ 
 git clone https://github.com/SirwanCode/HawlerAdmin.git
 
 
@@ -98,7 +98,7 @@ project/
 
 1. ریپۆزیتۆرییەکە (پرۆژەی) کلۆن بکەن:
 
-bash
+ 
 git clone https://github.com/SirwanCode/HawlerAdmin.git
 
 
